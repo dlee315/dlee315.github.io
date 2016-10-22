@@ -487,8 +487,9 @@ input:checked + .slider:before {
 .risk-icon img {
   width: 100%;
 }
+
 .risk-text {
-  float: right;
+  width: 800px;
 }
 
 #treatment {
